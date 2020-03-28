@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { StyleSheet, View, Text, TouchableOpacity } from 'react-native';
 import { Icon } from 'react-native-elements'
-// import Header from 'react-native-rave/src/components/Header';
+import Header from '../Header';
 
 export default class AccountHeader extends Component {
     constructor(props) {
