@@ -9,7 +9,7 @@
     "url": "https://github.com/Flutterwave/rave-react-native"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "card-validator": "^5.0.0",
     "dateformat": "^3.0.3",
     "md5": "^2.2.1",
